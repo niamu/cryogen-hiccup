@@ -1,0 +1,2 @@
+{:description "Hiccup parser"
+ :init cryogen-hiccup.core/init}
